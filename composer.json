@@ -11,7 +11,7 @@
         "datomatic/laravel-enum-helper": "^2.0.0",
         "dedoc/scramble": "^0.12.2",
         "filament/filament": "^3.2",
-        "flowframe/laravel-trend": "^0.3.0",
+        "flowframe/laravel-trend": "^0.4.0",
         "gotenberg/gotenberg-php": "^2.8",
         "guzzlehttp/guzzle": "^7.2",
         "inertiajs/inertia-laravel": "^1.0",
